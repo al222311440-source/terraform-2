@@ -1,0 +1,7 @@
+azurerm_resource_group.rg: Refreshing state... [id=/subscriptions/[SUBSCRIPTION_ID_OCULTO]/resourceGroups/rg-integradora-dev-mexicocentral-001]
+azurerm_virtual_network.vnet: Refreshing state... [id=/subscriptions/[SUBSCRIPTION_ID_OCULTO]/resourceGroups/rg-integradora-dev-mexicocentral-001/providers/Microsoft.Network/virtualNetworks/vnet-integradora-dev-mexicocentral-001]
+
+No changes. Your infrastructure matches the configuration.
+
+Terraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.

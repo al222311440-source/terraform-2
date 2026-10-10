@@ -1,0 +1,9 @@
+{
+  "addressSpace": [
+    "10.10.0.0/16"
+  ],
+  "location": "mexicocentral",
+  "name": "vnet-integradora-dev-mexicocentral-001",
+  "state": "Succeeded",
+  "subnets": []
+}

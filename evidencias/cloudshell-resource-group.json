@@ -1,0 +1,14 @@
+{
+  "location": "mexicocentral",
+  "name": "rg-integradora-dev-mexicocentral-001",
+  "state": "Succeeded",
+  "tags": {
+    "Environment": "dev",
+    "Location": "mexicocentral",
+    "Project": "integradora",
+    "cost_center": "utvt",
+    "managed_by": "terraform",
+    "owner": "Felipe de Jesús Serrano Hurtado",
+    "practice": "terraform-2"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "resource_group_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/subscriptions/[SUBSCRIPTION_ID_OCULTO]/resourceGroups/rg-integradora-dev-mexicocentral-001"
+  },
+  "resource_group_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "rg-integradora-dev-mexicocentral-001"
+  },
+  "virtual_network_address_space": {
+    "sensitive": false,
+    "type": [
+      "set",
+      "string"
+    ],
+    "value": [
+      "10.10.0.0/16"
+    ]
+  },
+  "virtual_network_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/subscriptions/[SUBSCRIPTION_ID_OCULTO]/resourceGroups/rg-integradora-dev-mexicocentral-001/providers/Microsoft.Network/virtualNetworks/vnet-integradora-dev-mexicocentral-001"
+  },
+  "virtual_network_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "vnet-integradora-dev-mexicocentral-001"
+  }
+}

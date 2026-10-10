@@ -1,0 +1,18 @@
+azurerm_resource_group.rg: Creating...
+azurerm_resource_group.rg: Still creating... [00m10s elapsed]
+azurerm_resource_group.rg: Still creating... [00m20s elapsed]
+azurerm_resource_group.rg: Creation complete after 23s [id=/subscriptions/[SUBSCRIPTION_ID_OCULTO]/resourceGroups/rg-integradora-dev-mexicocentral-001]
+azurerm_virtual_network.vnet: Creating...
+azurerm_virtual_network.vnet: Creation complete after 9s [id=/subscriptions/[SUBSCRIPTION_ID_OCULTO]/resourceGroups/rg-integradora-dev-mexicocentral-001/providers/Microsoft.Network/virtualNetworks/vnet-integradora-dev-mexicocentral-001]
+
+Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
+
+Outputs:
+
+resource_group_id = "/subscriptions/[SUBSCRIPTION_ID_OCULTO]/resourceGroups/rg-integradora-dev-mexicocentral-001"
+resource_group_name = "rg-integradora-dev-mexicocentral-001"
+virtual_network_address_space = toset([
+  "10.10.0.0/16",
+])
+virtual_network_id = "/subscriptions/[SUBSCRIPTION_ID_OCULTO]/resourceGroups/rg-integradora-dev-mexicocentral-001/providers/Microsoft.Network/virtualNetworks/vnet-integradora-dev-mexicocentral-001"
+virtual_network_name = "vnet-integradora-dev-mexicocentral-001"
