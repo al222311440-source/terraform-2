@@ -1,0 +1,5 @@
+Terraform v1.13.5 on linux_amd64
+Azure CLI 2.91.0
+Git 2.51.1
+terraform fmt -check -recursive: exit code 0
+az account show: ERROR: Please run az login to setup account.
